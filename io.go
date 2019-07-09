@@ -12,5 +12,4 @@ func main(){
 	// var c int
 	// fmt.Scanln("please input some number : ", &c)
 
-	fmt.Println(a/b)
-}
+}	
